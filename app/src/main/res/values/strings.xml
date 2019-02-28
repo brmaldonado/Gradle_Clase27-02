@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your logo</string>
+    <string name="name">Username</string>
+    <string name="pass">Password</string>
+    <string name="sign">SIGN IN</string>
+    <string name="Reg">Register</string>
+
+    <string name="cuestion">Forgot your password?</string>
+
+
+</resources>
